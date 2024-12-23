@@ -79,3 +79,13 @@ ul {
   height: 300px;
   object-fit: cover;
 }
+
+/* task-3*/
+#name-input {
+  display: block;
+  min-width: 360px;
+  border-radius: 4px;
+  padding: 8px 16px;
+  line-height: 1.5;
+  border: 1px solid #808080;
+}
