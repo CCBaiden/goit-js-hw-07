@@ -25,7 +25,7 @@ ul {
   padding: 0;
 }
 
-/* Task 1*/
+/* task-1*/
 #categories {
   display: flex;
   flex-direction: column;
@@ -62,4 +62,20 @@ ul {
   border-radius: 4px;
   border: 1px solid #808080;
   line-height: 1.5;
+}
+
+/* task-2*/
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 48px 24px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.gallery img {
+  max-width: 360px;
+  height: 300px;
+  object-fit: cover;
 }
