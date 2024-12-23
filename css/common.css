@@ -131,3 +131,31 @@ ul {
 .login-form button:focus {
   background-color: #6c8cff;
 }
+
+/* task-5*/
+.widget {
+  max-width: 392px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+.widget button {
+  display: block;
+  cursor: pointer;
+  margin-top: 16px;
+  min-width: 148px;
+  padding-block: 8px;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  background-color: #4e75ff;
+  color: #fff;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.widget button:hover,
+.widget button:focus {
+  background-color: #6c8cff;
+}
