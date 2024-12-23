@@ -64,6 +64,8 @@ ul {
   line-height: 1.5;
 }
 
+/* task-1 END */
+
 /* task-2*/
 .gallery {
   display: flex;
@@ -80,6 +82,8 @@ ul {
   object-fit: cover;
 }
 
+/* task-2 END*/
+
 /* task-3*/
 #name-input {
   display: block;
@@ -89,6 +93,8 @@ ul {
   line-height: 1.5;
   border: 1px solid #808080;
 }
+
+/* task-3 END*/
 
 /* task-4*/
 .login-form {
@@ -131,6 +137,7 @@ ul {
 .login-form button:focus {
   background-color: #6c8cff;
 }
+/* task-4 END*/
 
 /* task-5*/
 .widget {
@@ -159,3 +166,4 @@ ul {
 .widget button:focus {
   background-color: #6c8cff;
 }
+/* task-5 END*/
